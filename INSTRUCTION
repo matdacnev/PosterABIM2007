@@ -2,9 +2,7 @@ INSTRUCTION
 Mathieu d'Acremont
 mathieu.dacremont@gmail.com
 
-#########################################################################
-Latex compilation
-#########################################################################
+## Latex compilation
 
 To get the Poster.pdf, type the following in a Linux bash terminal:
 latex Poster.tex
