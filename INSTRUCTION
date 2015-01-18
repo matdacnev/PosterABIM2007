@@ -1,0 +1,17 @@
+INSTRUCTION
+Mathieu d'Acremont
+mathieu.dacremont@gmail.com
+
+#########################################################################
+Latex compilation
+#########################################################################
+
+To get the Poster.pdf, type the followint in a Linux bash terminal:
+latex Poster.tex
+bibtex Poster
+latex Poster.tex
+dvips Poster.dvi
+ps2pdf Poster.ps
+
+% Tested on Linux Ubuntu 14.10
+

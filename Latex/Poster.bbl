@@ -1,0 +1,146 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Bechara%
+, Damasio%
+, Damasio%
+\BCBL {}\ \BBA {} Anderson%
+}{%
+Bechara%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1994}}%
+}]{%
+Bechara94}
+\APACinsertmetastar {%
+Bechara94}%
+\begin{APACrefauthors}%
+Bechara, A.%
+, Damasio, A\BPBI R.%
+, Damasio, H.%
+\BCBL {}\ \BBA {} Anderson, S\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1994}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Insensitivity to future consequences following damage to
+  human prefrontal cortex} {Insensitivity to future consequences following
+  damage to human prefrontal cortex}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Cognition}{50}{}{7--15}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Busemeyer%
+\ \BBA {} Stout%
+}{%
+Busemeyer%
+\ \BBA {} Stout%
+}{%
+{\protect \APACyear {2002}}%
+}]{%
+Busemeyer02}
+\APACinsertmetastar {%
+Busemeyer02}%
+\begin{APACrefauthors}%
+Busemeyer, J\BPBI R.%
+\BCBT {}\ \BBA {} Stout, J\BPBI C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2002}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {A contribution of cognitive decision models to clinical
+  assessment: Decomposing performance on the {B}echara gambling task} {A
+  contribution of cognitive decision models to clinical assessment: Decomposing
+  performance on the {B}echara gambling task}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Psychological Assessment}{14}{}{253--262}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Corr%
+, Pickering%
+\BCBL {}\ \BBA {} Gray%
+}{%
+Corr%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {1995}}%
+}]{%
+Corr95}
+\APACinsertmetastar {%
+Corr95}%
+\begin{APACrefauthors}%
+Corr, J., P.%
+, Pickering, D., A.%
+\BCBL {}\ \BBA {} Gray, A., J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{1995}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{Personality and reinforcement in associative and
+  instrumental learning}} {{Personality and reinforcement in associative and
+  instrumental learning}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Personality and Individual Differences}{19}{1}{47--71}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+d'Acremont%
+, Gilli%
+\BCBL {}\ \BBA {} {Van der Linden}%
+}{%
+d'Acremont%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2006}}%
+}]{%
+Dacremont06}
+\APACinsertmetastar {%
+Dacremont06}%
+\begin{APACrefauthors}%
+d'Acremont, M.%
+, Gilli, M.%
+\BCBL {}\ \BBA {} {Van der Linden}, M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2006}{January}{}.
+\newblock
+\APACrefbtitle {Modeling Decision Making in the {Iowa Gambling Task}.}
+  {Modeling decision making in the {Iowa Gambling Task}.}
+\newblock
+\APAChowpublished {Poster session presented at the Alpin Brain Imaging Meeting,
+  Champ\'{e}ry, Switzerland}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Whiteside%
+\ \BBA {} Lynam%
+}{%
+Whiteside%
+\ \BBA {} Lynam%
+}{%
+{\protect \APACyear {2001}}%
+}]{%
+Whiteside01}
+\APACinsertmetastar {%
+Whiteside01}%
+\begin{APACrefauthors}%
+Whiteside, P., S.%
+\BCBT {}\ \BBA {} Lynam, R., D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2001}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {{The five factor model and impulsivity: Using a
+  structural model of personality to understand impulsivity}} {{The five factor
+  model and impulsivity: Using a structural model of personality to understand
+  impulsivity}}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Personality and Individual
+  Differences}{30}{4}{669--689}.
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
