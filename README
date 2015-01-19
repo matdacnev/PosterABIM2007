@@ -2,23 +2,19 @@ README
 Mathieu d'Acremont
 mathieu.dacremont@gmail.com
 
-####################################################
-Poster presented at the Alpine Brain Imaging meeting
-Chambery, Switzerland, 2007
-####################################################
+## Summary
 
-The poster abstract can be found in:
-PosterAbstract.pdf
-PosterAbstract.ods (libre office)
+This is a poster that waa presented at the Alpine Brain Imaging meeting (Chambery, Switzerland, 2007)
 
-The poster itself is:
-Poster.pdf
+## File description
 
-The Poster.pdf is a copy of:
-Latex/Poster.pdf
+PosterAbstract.pdf -> the poster abstract (PDF)
+PosterAbstract.ods -> the poster abstract  (libre office)
+Poster.pdf -> the poster printed for the conference
 
-The Poster.df is the result of compiling:
-Latex/Poster.tex (see INSTRUCTION)
+### Latex dir
+
+Files to compile the poster (see INSTRUCTION)
 
 
 
